@@ -5,4 +5,4 @@ Just me playing around with the HTML5 canvas element for the first time. Simple 
 
 Can be seen here:
 
-http://dannycallaghan.com/_dump/HTML5/canvas/
+http://dannycallaghan.github.io/HTML5-Canvas-Digital-Clock/index.html
